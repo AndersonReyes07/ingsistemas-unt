@@ -1,0 +1,48 @@
+.letras{
+  
+    color: floralwhite;
+}
+
+.titulo{
+
+    color: floralwhite;
+}
+.negro{
+background-color:#2F353A;
+
+}
+
+.azul{
+background-color: rgb(58, 58, 168);
+
+}
+
+body{
+
+    background-color: #F8F9FA;
+}
+
+.padre {
+    /* IMPORTANTE */
+    text-align: center;
+  }
+  
+  .hijo {
+    
+    padding:10px;
+    margin:10px;
+    
+    /* IMPORTANTE */
+    display: inline-block;
+  }
+footer{
+    
+      
+        height: 70px;
+        border-top: 2px solid rgba(0, 0, 0, 0.24);  
+        /*  poner footer abajo */
+        left: 0;
+        bottom: 0;
+        width: 100%;
+    
+}
